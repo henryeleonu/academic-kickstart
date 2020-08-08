@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "The University of Manchester"
   company_url = ""
   location = "Manchester"
-  date_start = "09/2015"
-  date_end = "06/2018"
+  date_start = "2015-09-01"
+  date_end = "2018-06-30"
   description = "Gained experience in assisting undergraduate and master’s students in laboratory sessions. Gained experience in student assessment by marking homework and laboratory work."
   Responsibilities include:
   
