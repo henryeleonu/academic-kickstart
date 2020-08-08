@@ -29,23 +29,20 @@ date_format = "Jan 2006"
   
   * Laboratory sessions
   * Marking
-  * 
   """
-  06/2013 – 10/2014
-ASSISTANT LECTURER, ALEX EKWUEME FEDERAL UNIVERSITY, NDUFU-ALIKE IKWO Gained experience in teaching and research. Deliver lectures and tutorials. Prepare teaching materials. Assess students' coursework. Set and mark examinations.
+  
 [[experience]]
   title = "Assitant Lecturer"
-  company = "Alex Ekwueme"
+  company = "Alex Ekwueme Federal University"
   company_url = ""
-  location = "Manchester"
-  date_start = "09/2015"
-  date_end = "06/2018"
-  description = "Gained experience in assisting undergraduate and master’s students in laboratory sessions. Gained experience in student assessment by marking homework and laboratory work."
+  location = "Ndufu-Alike Ikwo"
+  date_start = "06/2013"
+  date_end = "10/2014"
+  description = "Gained experience in teaching and research. Deliver lectures and tutorials. Prepare teaching materials. Assess students' coursework. Set and mark examinations."
   Responsibilities include:
   
-  * Laboratory sessions
-  * Marking
-  * 
+  * Teaching
+  * Research
   """
 
 [[experience]]
