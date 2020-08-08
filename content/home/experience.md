@@ -45,13 +45,14 @@ date_format = "Jan 2006"
   * Research
   """
 
+
 [[experience]]
-  title = "yyyyyProfessor"
-  company = "University X"
+  title = "Systemes Analyst"
+  company = "Abia State Planning Commission"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Umuahia"
+  date_start = "2006-12-01"
+  date_end = "2013-06-31"
+  description = """"""
 
 +++
